@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean! <br/><a href="https://github.com/seanguevaraflood">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/seanguevaraflood/">Programmer</a>, <a 
+<h1>Hi, I'm Sean! <br/><a href="https://github.com/seanguevaraflood">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/seanguevaraflood/">Programmer</a>,
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
