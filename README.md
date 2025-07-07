@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sean! <br/><a href="https://github.com/seanguevaraflood">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/seanguevaraflood/">Programmer</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>EDR Project (LimaCharlie, VM, C&C & Threat Dectection)</b>
   - [Endpoint Detection and Response project using Silver, LimaCharlie, VM, C&C, & Threat Detection to automate intrusion defense response.](https://github.com/seanguevaraflood)
