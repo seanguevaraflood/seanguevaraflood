@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>EDR Project (Silver, LimaCharlie, VM, C&C & Threat Dectection)</b>
+- <b>EDR Project (LimaCharlie, VM, C&C & Threat Dectection)</b>
   - [Endpoint Detection and Response project using Silver, LimaCharlie, VM, C&C, & Threat Detection to automate intrusion defense response.](https://github.com/seanguevaraflood)
 - <b>SIEM In Azure (Microsoft Azure, VM, Honeypot, Attack Logs & KQL)</b>
   - [Deployed honeypot VM, analyzed attack logs with KQL and built a live attack map](https://github.com/seanguevaraflood)
