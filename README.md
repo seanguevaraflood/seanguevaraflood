@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>EDR Project (LimaCharlie, VM, C&C & Threat Dectection)</b>
-  - [Endpoint Detection and Response project using Silver, LimaCharlie, VM, C&C, & Threat Detection to automate intrusion defense response.](https://github.com/seanguevaraflood/EDRProject)
+  - [Endpoint Detection and Response project using LimaCharlie, VM, C&C, & Threat Detection to automate intrusion defense response.](https://github.com/seanguevaraflood/EDRProject)
 - <b>SIEM In Azure (Microsoft Azure, VM, Honeypot, Attack Logs & KQL)</b>
   - [Deployed honeypot VM, analyzed attack logs with KQL and built a live attack map](https://github.com/seanguevaraflood)
 - <b>Active Directory Administration (Active Directory, Powershell, NAT & DHCP)</b>
   - [Built AD domain with NAT/DHCP, scripted user creation with Powershell and joined client VM.](https://github.com/seanguevaraflood)
 - <b>File Integrity Monitor (Powershell, File Integrity, Scripting & Automation)</b>
-  - [Scripted a File Integrity Monitor to hash files, store baselines, and detect changes.](https://github.com/seanguevaraflood)
+  - [Scripted a File Integrity Monitor to hash files, store baselines and detect changes.](https://github.com/seanguevaraflood)
 - <b>Nessus Vulnerability Management (Offensive Network Intrusion, Password Cracking & Password Cracking & Vulnerability Management)</b>
   - [Used Nessus to monitor offensive network intrusion, password cracking and packet sniffing.](https://github.com/seanguevaraflood)
 - <b>Securing a REST API with Flask Via Authentication and Authorization (REST API, Flask, jsonify, Authentication & Authorization)</b>
