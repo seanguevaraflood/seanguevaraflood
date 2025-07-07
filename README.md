@@ -9,15 +9,15 @@
 - <b>Active Directory Administration (Active Directory, Powershell, NAT & DHCP)</b>
   - [Built AD domain with NAT/DHCP, scripted user creation with Powershell and joined client VM.](https://github.com/seanguevaraflood/ActiveDirectory)
 - <b>File Integrity Monitor (Powershell, File Integrity, Scripting & Automation)</b>
-  - [Scripted a File Integrity Monitor to hash files, store baselines and detect changes.](https://github.com/seanguevaraflood)
+  - [Scripted a File Integrity Monitor to hash files, store baselines and detect changes.](https://github.com/seanguevaraflood/FIM)
 - <b>Nessus Vulnerability Management (Offensive Network Intrusion, Password Cracking & Password Cracking & Vulnerability Management)</b>
-  - [Used Nessus to monitor offensive network intrusion, password cracking and packet sniffing.](https://github.com/seanguevaraflood)
+  - [Used Nessus to monitor offensive network intrusion, password cracking and packet sniffing.](https://github.com/seanguevaraflood/Nessus)
 - <b>Securing a REST API with Flask Via Authentication and Authorization (REST API, Flask, jsonify, Authentication & Authorization)</b>
-  - [Secured a REST API by providing authentication and authorization to secure sensitive data with Flask, Python, and jsonify.](https://github.com/seanguevaraflood)
+  - [Secured a REST API by providing authentication and authorization to secure sensitive data with Flask, Python, and jsonify.](https://github.com/seanguevaraflood/RESTAPI)
 - <b>Python Keylogger (Python, Pynput, Ethicial Hacking & Obfuscation.)</b>
-  - [Developed a Python keylogger for controlled lab use to demonstrate input monitoring techniques.](https://github.com/seanguevaraflood)
+  - [Developed a Python keylogger for controlled lab use to demonstrate input monitoring techniques.](https://github.com/seanguevaraflood/PythonKeylogger)
 - <b>Online Integration For Audio/Video Repair Shop (Web Development, CSS, B2C Business Optimization & Project Management)</b>
-  - [Modeled an online integration for a physical business into the digital space.](https://github.com/seanguevaraflood)
+  - [Modeled an online integration for a physical business into the digital space.](https://github.com/seanguevaraflood/OnlineIntegration)
 
 <h2> 🤳 Connect with me:</h2>
 
