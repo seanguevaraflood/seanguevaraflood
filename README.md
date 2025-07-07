@@ -21,7 +21,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIN](https://www.linkedin.com/in/seanguevaraflood/)
+[LinkedIn](https://www.linkedin.com/in/seanguevaraflood/)
 
 <!--
 **seanguevaraflood/seanguevaraflood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
