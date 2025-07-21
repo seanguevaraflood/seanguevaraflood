@@ -11,7 +11,7 @@
 - <b>File Integrity Monitor (Powershell, File Integrity, Scripting & Automation)</b>
   - [Scripted a File Integrity Monitor to hash files, store baselines and detect changes.](https://github.com/seanguevaraflood/FIM)
 - <b>Nessus Vulnerability Management (Offensive Network Intrusion, Password Cracking & Password Cracking & Vulnerability Management)</b>
-  - [Used Nessus to monitor offensive network intrusion, password cracking and packet sniffing.](https://github.com/seanguevaraflood/Nessus)
+  - [Used Nessus to monitor offensive network intrusion, password cracking and packet sniffing.](https://github.com/seanguevaraflood/VulnerabilityManagement)
 - <b>Securing a REST API with Flask Via Authentication and Authorization (REST API, Flask, jsonify, Authentication & Authorization)</b>
   - [Secured a REST API by providing authentication and authorization to secure sensitive data with Flask, Python, and jsonify.](https://github.com/seanguevaraflood/RESTAPI)
 - <b>Python Keylogger (Python, Pynput, Ethicial Hacking & Obfuscation.)</b>
